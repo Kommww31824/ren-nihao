@@ -1,0 +1,8 @@
+# Windows / 大体积压缩包走 GitHub Releases，不进仓库
+releases_staging/
+*.rar
+*.zip
+*.exe
+*.tmp
+.DS_Store
+Thumbs.db
